@@ -1,3 +1,2 @@
-### Repositório de PHP
-
-## Básicamenta uma colinha para quando for necesário.
+# Repositório de PHP
+Básicamenta uma colinha para quando for necesário.
