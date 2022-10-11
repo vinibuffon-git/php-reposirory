@@ -71,3 +71,4 @@ vprintf($article2, $array_company);
 fullStackPHPClassSession("var_dump", __LINE__);
 
 var_dump($array);
+
