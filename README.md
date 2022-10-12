@@ -5,7 +5,7 @@ __Saídas__ ✓ <br />
 
 __Variáveis__ ✓ <br />
 
-__Operadores__ ✗ <br />
+__Operadores__ ✓  <br />
 
 __Strings__ ✗ <br />
 
