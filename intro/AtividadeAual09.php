@@ -8,3 +8,4 @@ no H3 e não na variável.</h3>";
 $usuario = "Maria Clara";
 print "<h3>Hello, " . " World!</h3>";
 print "<h4>Olá: " . "{$usuario}</h4>";
+?>
