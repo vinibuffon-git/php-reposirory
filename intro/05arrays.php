@@ -7,11 +7,7 @@ fullStackPHPClassName("Funções para arrays");
  */
 fullStackPHPClassSession("manipulação", __LINE__);
 
-$array = [
-    "Javascript",
-    "PHP",
-    "Java"
-];
+$array = ["Javascript","PHP","Java"];
 
 $assoc = [
     "Lang2" => "Javascript",
@@ -77,6 +73,11 @@ var_dump($reverse_alfabeto);
  */
 fullStackPHPClassSession("verificação", __LINE__);
 
+var_dump([
+    array_keys($alfabeto),
+    array_values($alfabeto)
+]);
+
 echo "<h5>Verificar se existe PHP dentro do array</h5>";
 if(in_array("PHP", $array)){
     echo "TEM PHP!";
@@ -86,3 +87,24 @@ if(in_array("PHP", $array)){
  * [ exemplo prático ] um template view | implode
  */
 fullStackPHPClassSession("exemplo prático", __LINE__);
+
+$spliter = ", ";
+
+$text = "JAVA, Pyton, Ruby, HTML";
+
+$arrayToString = implode($spliter,$alfabeto);
+
+$stringToArray = explode($spliter,$text);
+
+echo "<h2>{$arrayToString}</h2>";
+
+echo var_dump($stringToArray);
+
+
+
+
+
+
+
+
+
