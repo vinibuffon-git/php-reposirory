@@ -3,7 +3,7 @@ Básicamenta uma colinha para quando for necesário.
 
 __Saídas__ ✓ 
 
-__Variáveis__ ✓ <
+__Variáveis__ ✓ 
 
 __Operadores__ ✓  
 
