@@ -1,18 +1,18 @@
 # Repositório de PHP
 Básicamenta uma colinha para quando for necesário.
 
-__Saídas__ ✓ <br />
+__Saídas__ ✓ 
 
-__Variáveis__ ✓ <br />
+__Variáveis__ ✓ <
 
-__Operadores__ ✓  <br />
+__Operadores__ ✓  
 
-__Strings__ ✓ <br />
+__Strings__ ✓ 
 
-__Arrays__ ✓ <br />
+__Arrays__ ✓ 
 
-__Objetos__ ✗ <br />
+__Objetos__ ✓ 
 
-__Datas__ ✗
+__Datas__ ✓
 
 PHPDocker.io
